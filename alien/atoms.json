@@ -1,0 +1,23 @@
+[
+{"id":"A1","name":"Small multiples","desc":"Repeat one identical chart per group on shared axes so the eye compares shapes, not legends.","popular":false},
+{"id":"A2","name":"Choropleth map","desc":"Color geographic areas by a value to show spatial pattern.","popular":true},
+{"id":"A3","name":"Flow/Sankey budget","desc":"Bands whose width equals quantity show how a total splits across stages, making losses visible as thinning bands (Minard).","popular":false},
+{"id":"A4","name":"Slope chart","desc":"Connect each category's value in two states with a line so rank swaps and direction pop out.","popular":false},
+{"id":"A5","name":"Receipt/waterfall decomposition","desc":"Break a total into additive line items so the reader sees which component drives the total.","popular":false},
+{"id":"A6","name":"Direct standardization counterfactual","desc":"Re-weight region B's outcomes to region A's mix (station type, temperature) to separate composition from true performance, as epidemiologists age-adjust rates.","popular":false},
+{"id":"A7","name":"Simpson reversal reveal","desc":"Show aggregate comparison then stratified one where the ranking flips, exposing a confounder.","popular":false},
+{"id":"A8","name":"Radial 24h clock","desc":"Polar chart with hour as angle shows daily rhythm and peak windows at a glance.","popular":false},
+{"id":"A9","name":"Color stripes","desc":"One colored band per unit (day/session) encoding value with no axes, so long patterns read instantly (warming stripes).","popular":false},
+{"id":"A10","name":"Vital-sign monitor","desc":"Time trace drawn against a shaded normal band with alarm markers where it leaves the band, as in ICU monitors.","popular":false},
+{"id":"A11","name":"Nutrition-label panel","desc":"Fixed-format standardized panel of the same metrics per item so any two items compare line by line.","popular":false},
+{"id":"A12","name":"Transit-map schematic","desc":"Abstract topology over true geography to show sequence and connections clearly.","popular":false},
+{"id":"A13","name":"Isotype unit chart","desc":"One icon equals N events so counts and rates become countable objects (Neurath).","popular":false},
+{"id":"A14","name":"Dose-response curve","desc":"Plot outcome against exposure level with fitted curve and band to show threshold and slope.","popular":false},
+{"id":"A15","name":"Forest plot","desc":"Effect estimates with confidence intervals per subgroup aligned to a no-effect line, showing which differences are real.","popular":false},
+{"id":"A16","name":"Pareto trade-off front","desc":"Scatter two costs (price vs time) and draw the frontier of non-dominated options.","popular":false},
+{"id":"A17","name":"Journey map emotion curve","desc":"Stages of an experience on x, emotional state on y, with pain points annotated.","popular":false},
+{"id":"A18","name":"Natural-frequency risk phrasing","desc":"State risk as 1 in N counts rather than percents, which people grasp more accurately (Gigerenzer).","popular":false},
+{"id":"A19","name":"Ridgeline distributions","desc":"Stacked density curves per group expose spread and bimodality hidden by means.","popular":false},
+{"id":"A20","name":"KPI dashboard tiles","desc":"Grid of headline numbers per group.","popular":true},
+{"id":"A21","name":"Ranked bar chart","desc":"Sorted bars per group.","popular":true}
+]

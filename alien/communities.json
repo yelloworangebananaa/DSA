@@ -1,0 +1,11 @@
+{"BI analysts":{"A20":1,"A21":1,"A2":1,"A1":0.5,"A5":0.5},
+"Newsroom graphics":{"A1":1,"A2":1,"A4":1,"A9":0.5,"A13":0.5,"A19":0.5,"A21":1,"A3":0.5},
+"Epidemiologists":{"A6":1,"A7":1,"A15":1,"A14":1,"A18":0.5,"A2":1},
+"UX researchers":{"A17":1,"A11":0.5,"A20":0.5},
+"Clinical informatics":{"A10":1,"A14":0.5,"A15":0.5},
+"Energy/utility analysts":{"A3":1,"A8":1,"A5":0.5,"A20":1,"A16":0.5},
+"Climate communicators":{"A9":1,"A2":1,"A13":0.5,"A18":0.5},
+"Transit cartographers":{"A12":1,"A2":0.5},
+"Risk-communication psych":{"A18":1,"A13":1,"A11":0.5},
+"Operations researchers":{"A16":1,"A3":0.5,"A5":0.5},
+"Consumer-policy designers":{"A11":1,"A5":1,"A18":0.5}}
